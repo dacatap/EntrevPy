@@ -66,6 +66,7 @@ def main():
             else:
                 print("NO")
         else:
+            print("NO")
             print(f"{tinput[0]} no es un nodo válido")
 
 main()
