@@ -32,7 +32,7 @@ def main():
     """
     Se busca el número más veces repetido en la lista de diametros, y se retorna cuantas veces este se repitió
     Esto debido a que la cantidad de pilas en las que se pueden apilar las ollas, 
-    si o si depende de las veces que se repita un diametro en especifico
+    si o si depende de las veces que se repita un diametro
     """
     nrepetido = mostrepNum(listaDiametros)
     print(nrepetido)
